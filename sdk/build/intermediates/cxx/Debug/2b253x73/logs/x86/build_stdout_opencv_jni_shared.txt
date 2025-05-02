@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\AndroidDevelopment\VibraSpeak\sdk\.cxx\Debug\2b253x73\x86'
+ninja: no work to do.
